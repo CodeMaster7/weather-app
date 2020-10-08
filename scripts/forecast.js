@@ -1,4 +1,4 @@
-import keys from './key'
+const key = 'scripts/key.js'
 
 // get weather information
 const getWeather = async (id) => {
