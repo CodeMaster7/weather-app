@@ -1,3 +1,5 @@
+import keys from './key'
+
 // get weather information
 const getWeather = async (id) => {
     const base = 'http://dataservice.accuweather.com/currentconditions/v1/'
